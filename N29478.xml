@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:039255_0000_1013FA112F80D3E0"/>
-            <pb facs="tcp:039255_0001_1013FA16D8150618" rendition="simple:additions"/>
+            <pb facs="unknown:039255_0000_1013FA112F80D3E0"/>
+            <pb facs="unknown:039255_0001_1013FA16D8150618"
+                rendition="simple:additions"/>
             <head>THE ADDRESS Of the Repreſentatives of their Majeſtyes <hi>Proteſtant Subiects,</hi> in the Provinnce of Mary-Land Aſſembled.</head>
             <opener>
                <salute>To the Kings moſt Excellent Maiſty.</salute>
